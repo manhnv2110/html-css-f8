@@ -1,0 +1,5 @@
+22. css in html
+3 cach: internal <su dung 1 cap the style trong file html> , external <dung link ben ngoai> , inline <atribute style in line>
+24. id an class
+dung de goi element trong css;
+css selectors
