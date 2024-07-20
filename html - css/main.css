@@ -1,4 +1,13 @@
-h1 {
-    color: red;
-    font-size: 20px;
+
+.title {
+    color: purple;
+}
+.box .title{
+    color: yellowgreen;
+}
+:root {
+    --mau: rgb(0, 28, 128);
+}
+#manh {
+    color: var(--mau);
 }

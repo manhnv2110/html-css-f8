@@ -3,3 +3,10 @@
 24. id an class
 dung de goi element trong css;
 css selectors
+30. Độ ưu tiên trong css
+a. internal và external: không có sự ưu tiên, đứa nào được gọi sau thì nó đè lên -> coi như dùng nó
+b. inline - 100
+c. class - 10
+d.tag - 1
+e. equal specificity: gọi giống nhau thì ai mới hơn -> ưu tiên
+f. universal selector and inherited
